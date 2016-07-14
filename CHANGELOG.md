@@ -3,6 +3,7 @@
       - includes library guidance.lua that offers preliminary configuration on guidance.
     - Guidance
       - Handle Access tags for lanes, only considering valid lanes in lane-guidance (think car | car | bike | car)
+      - Reduced semantic of merge to refer only to merges from a lane onto a motorway-like road
 
 # 5.3.0
   Changes from 5.3.0-rc.3
